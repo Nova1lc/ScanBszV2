@@ -8,7 +8,11 @@ cd ScanBszV2
 
 
 
-python3 ScanBszV2.py
+chmod 777 ScanBszV2.sh
+
+
+
+bash ScanBszV2.sh
 
 
 
